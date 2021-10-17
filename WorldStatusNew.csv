@@ -1,0 +1,737 @@
+Country,Type,Value,ISO-code
+Afghanistan,Life expectancy,64.5,AFG
+Algeria,Life expectancy,76.7,DZA
+Andorra,Life expectancy,81.8,AND
+Angola,Life expectancy,60.8,AGO
+Antigua and Barbuda,Life expectancy,76.9,ATG
+Argentina,Life expectancy,76.5,ARG
+Armenia,Life expectancy,74.9,ARM
+Australia,Life expectancy,83.3,AUS
+Austria,Life expectancy,81.4,AUT
+Azerbaijan,Life expectancy,72.9,AZE
+Bahrain,Life expectancy,77.2,BHR
+Bangladesh,Life expectancy,72.3,BGD
+Barbados,Life expectancy,79.1,BRB
+Belarus,Life expectancy,74.6,BLR
+Belgium,Life expectancy,81.5,BEL
+Belize,Life expectancy,74.5,BLZ
+Benin,Life expectancy,61.5,BEN
+Bhutan,Life expectancy,71.5,BTN
+Bolivia,Life expectancy,71.2,BOL
+Bosnia and Herzegovina,Life expectancy,77.3,BIH
+Botswana,Life expectancy,69.3,BWA
+Brazil,Life expectancy,75.7,BRA
+Brunei,Life expectancy,75.7,BRN
+Bulgaria,Life expectancy,74.9,BGR
+Burkina Faso,Life expectancy,61.2,BFA
+Burundi,Life expectancy,61.2,BDI
+Cambodia,Life expectancy,69.6,KHM
+Cameroon,Life expectancy,58.9,CMR
+Canada,Life expectancy,82.3,CAN
+Cape Verde,Life expectancy,72.8,CPV
+Central African Republic,Life expectancy,52.8,CAF
+Chad,Life expectancy,54,TCD
+Chile,Life expectancy,80,CHL
+China,Life expectancy,76.7,CHN
+Colombia,Life expectancy,77.1,COL
+Comoros,Life expectancy,64.1,COM
+Costa Rica,Life expectancy,80.1,CRI
+Croatia,Life expectancy,78.3,HRV
+Cuba,Life expectancy,78.6,CUB
+Cyprus,Life expectancy,80.8,CYP
+Czech Republic,Life expectancy,79.2,CZE
+Democratic Republic of the Congo,Life expectancy,60.4,COD
+Denmark,Life expectancy,80.8,DNK
+Djibouti,Life expectancy,66.6,DJI
+Dominican Republic,Life expectancy,73.9,DOM
+East Timor,Life expectancy,69.3,TLS
+Ecuador,Life expectancy,76.8,ECU
+Egypt,Life expectancy,71.8,EGY
+El Salvador,Life expectancy,73.1,SLV
+Equatorial Guinea,Life expectancy,58.4,GNQ
+Eritrea,Life expectancy,65.9,ERI
+Estonia,Life expectancy,78.6,EST
+Eswatini,Life expectancy,59.4,SWZ
+Ethiopia,Life expectancy,66.2,ETH
+Fiji,Life expectancy,67.3,FJI
+Finland,Life expectancy,81.7,FIN
+France,Life expectancy,82.5,FRA
+Gabon,Life expectancy,66.2,GAB
+Georgia,Life expectancy,73.6,GEO
+Germany,Life expectancy,81.2,DEU
+Ghana,Life expectancy,63.8,GHA
+Greece,Life expectancy,82.1,GRC
+Greenland,Life expectancy,71.25,GRL
+Grenada,Life expectancy,72.4,GRD
+Guatemala,Life expectancy,74.1,GTM
+Guinea,Life expectancy,58,GIN
+Guyana,Life expectancy,69.8,GUY
+Haiti,Life expectancy,63.7,HTI
+Honduras,Life expectancy,75.1,HND
+Hong Kong,Life expectancy,84.7,HKG
+Hungary,Life expectancy,76.7,HUN
+Iceland,Life expectancy,82.9,ISL
+India,Life expectancy,69.4,IND
+Indonesia,Life expectancy,71.5,IDN
+Iran,Life expectancy,76.5,IRN
+Iraq,Life expectancy,70.5,IRQ
+Ireland,Life expectancy,82.1,IRL
+Israel,Life expectancy,82.8,ISR
+Italy,Life expectancy,83.6,ITA
+Ivory Coast,Life expectancy,57.4,CIV
+Jamaica,Life expectancy,74.4,JAM
+Japan,Life expectancy,84.5,JPN
+Jordan,Life expectancy,74.4,JOR
+Kazakhstan,Life expectancy,73.2,KAZ
+Kenya,Life expectancy,63.3,KEN
+Kiribati,Life expectancy,68.1,KIR
+Kuwait,Life expectancy,75.4,KWT
+Kyrgyzstan,Life expectancy,71.3,KGZ
+Laos,Life expectancy,67.6,LAO
+Latvia,Life expectancy,75.2,LVA
+Lebanon,Life expectancy,78.9,LBN
+Lesotho,Life expectancy,53.7,LSO
+Liberia,Life expectancy,63.7,LBR
+Libya,Life expectancy,72.7,LBY
+Liechtenstein,Life expectancy,80.5,LIE
+Lithuania,Life expectancy,75.7,LTU
+Luxembourg,Life expectancy,82.1,LUX
+Madagascar,Life expectancy,66.7,MDG
+Malawi,Life expectancy,63.8,MWI
+Malaysia,Life expectancy,76.1,MYS
+Mali,Life expectancy,58.9,MLI
+Malta,Life expectancy,82.4,MLT
+Marshall Islands,Life expectancy,73.9,MHL
+Mauritania,Life expectancy,64.7,MRT
+Mauritius,Life expectancy,74.9,MUS
+Mexico,Life expectancy,75,MEX
+Micronesia,Life expectancy,67.8,FSM
+Moldova,Life expectancy,71.8,MDA
+Mongolia,Life expectancy,69.7,MNG
+Montenegro,Life expectancy,76.8,MNE
+Morocco,Life expectancy,76.5,MAR
+Mozambique,Life expectancy,60.2,MOZ
+Myanmar,Life expectancy,66.9,MMR
+Namibia,Life expectancy,63.4,NAM
+Nepal,Life expectancy,70.5,NPL
+Netherlands,Life expectancy,82.1,NLD
+New Zealand,Life expectancy,82.1,NZL
+Nicaragua,Life expectancy,74.3,NIC
+Niger,Life expectancy,62,NER
+Nigeria,Life expectancy,54.3,NGA
+North Macedonia,Life expectancy,75.7,MKD
+Norway,Life expectancy,82.5,NOR
+Oman,Life expectancy,77.6,OMN
+Pakistan,Life expectancy,67.1,PAK
+Palau,Life expectancy,73.7,PLW
+Palestine,Life expectancy,73.9,PSE
+Panama,Life expectancy,78.3,PAN
+Papua New Guinea,Life expectancy,64.3,PNG
+Paraguay,Life expectancy,74.1,PRY
+Peru,Life expectancy,76.5,PER
+Philippines,Life expectancy,71.1,PHL
+Poland,Life expectancy,78.5,POL
+Portugal,Life expectancy,81.9,PRT
+Republic of the Congo,Life expectancy,64.3,COG
+Romania,Life expectancy,75.9,ROU
+Russia,Life expectancy,72.4,RUS
+Rwanda,Life expectancy,68.7,RWA
+Saint Kitts and Nevis,Life expectancy,74.6,KNA
+Saint Lucia,Life expectancy,76.1,LCA
+Saint Vincent and the Grenadines,Life expectancy,72.4,VCT
+Samoa,Life expectancy,73.2,WSM
+Sao Tome and Principe,Life expectancy,70.2,STP
+Saudi Arabia,Life expectancy,75,SAU
+Senegal,Life expectancy,67.7,SEN
+Serbia,Life expectancy,75.8,SRB
+Seychelles,Life expectancy,73.3,SYC
+Sierra Leone,Life expectancy,54.3,SLE
+Singapore,Life expectancy,83.8,SGP
+Slovakia,Life expectancy,77.4,SVK
+Slovenia,Life expectancy,81.2,SVN
+Solomon Islands,Life expectancy,72.8,SLB
+Somalia,Life expectancy,56.7,SOM
+South Africa,Life expectancy,63.9,ZAF
+South Sudan,Life expectancy,57.6,SSD
+Spain,Life expectancy,83.4,ESP
+Sri Lanka,Life expectancy,76.8,LKA
+Sudan,Life expectancy,65.1,SDN
+Suriname,Life expectancy,71.6,SUR
+Sweden,Life expectancy,82.7,SWE
+Syria,Life expectancy,71.8,SYR
+Tajikistan,Life expectancy,70.9,TJK
+Tanzania,Life expectancy,65,TZA
+Thailand,Life expectancy,76.9,THA
+The Bahamas,Life expectancy,73.8,BHS
+The Gambia,Life expectancy,61.7,GMB
+Togo,Life expectancy,60.8,TGO
+Tonga,Life expectancy,70.8,TON
+Trinidad and Tobago,Life expectancy,73.4,TTO
+Tunisia,Life expectancy,76.5,TUN
+Turkey,Life expectancy,78.3,TUR
+Turkmenistan,Life expectancy,68.1,TKM
+Uganda,Life expectancy,63,UGA
+Ukraine,Life expectancy,72,UKR
+United Arab Emirates,Life expectancy,77.8,ARE
+United Kingdom,Life expectancy,81.2,GBR
+United States,Life expectancy,78.9,USA
+Uruguay,Life expectancy,77.8,URY
+Uzbekistan,Life expectancy,71.5,UZB
+Vanuatu,Life expectancy,70.3,VUT
+Venezuela,Life expectancy,72.1,VEN
+Vietnam,Life expectancy,75.3,VNM
+Yemen,Life expectancy,66.1,YEM
+Zambia,Life expectancy,63.5,ZMB
+Zimbabwe,Life expectancy,61.2,ZWE
+Afghanistan,Population growth,2.41,AFG
+Algeria,Population growth,1.89,DZA
+Andorra,Population growth,0.63,AND
+Angola,Population growth,3.12,AGO
+Antigua and Barbuda,Population growth,1.03,ATG
+Argentina,Population growth,0.88,ARG
+Armenia,Population growth,0.17,ARM
+Australia,Population growth,1.6,AUS
+Austria,Population growth,0.46,AUT
+Azerbaijan,Population growth,1.35,AZE
+Bahrain,Population growth,1.92,BHR
+Bangladesh,Population growth,1.19,BGD
+Barbados,Population growth,0.5,BRB
+Belarus,Population growth,-0.1,BLR
+Belgium,Population growth,0.85,BEL
+Belize,Population growth,2.43,BLZ
+Benin,Population growth,2.73,BEN
+Bhutan,Population growth,1.68,BTN
+Bolivia,Population growth,1.65,BOL
+Bosnia and Herzegovina,Population growth,-0.14,BIH
+Botswana,Population growth,0.86,BWA
+Brazil,Population growth,0.87,BRA
+Brunei,Population growth,1.4,BRN
+Bulgaria,Population growth,-0.6,BGR
+Burkina Faso,Population growth,2.86,BFA
+Burundi,Population growth,3.19,BDI
+Cambodia,Population growth,1.76,KHM
+Cameroon,Population growth,2.54,CMR
+Canada,Population growth,1.14,CAN
+Cape Verde,Population growth,0.78,CPV
+Central African Republic,Population growth,1.99,CAF
+Chad,Population growth,3,TCD
+Chile,Population growth,0.9,CHL
+China,Population growth,0.49,CHN
+Colombia,Population growth,1.32,COL
+Comoros,Population growth,2.44,COM
+Costa Rica,Population growth,1.42,CRI
+Croatia,Population growth,-0.32,HRV
+Cuba,Population growth,-0.05,CUB
+Cyprus,Population growth,1.11,CYP
+Czech Republic,Population growth,0.18,CZE
+Democratic Republic of the Congo,Population growth,2.74,COD
+Denmark,Population growth,0.36,DNK
+Djibouti,Population growth,1.52,DJI
+Dominican Republic,Population growth,1.26,DOM
+East Timor,Population growth,2.88,TLS
+Ecuador,Population growth,1.6,ECU
+Egypt,Population growth,1.66,EGY
+El Salvador,Population growth,0.66,SLV
+Equatorial Guinea,Population growth,2.8,GNQ
+Eritrea,Population growth,3.28,ERI
+Estonia,Population growth,-0.04,EST
+Eswatini,Population growth,1.54,SWZ
+Ethiopia,Population growth,2.58,ETH
+Fiji,Population growth,0.78,FJI
+Finland,Population growth,0.48,FIN
+France,Population growth,0.5,FRA
+Gabon,Population growth,2.39,GAB
+Georgia,Population growth,0.63,GEO
+Germany,Population growth,0.11,DEU
+Ghana,Population growth,2.17,GHA
+Greece,Population growth,-0.18,GRC
+Greenland,Population growth,-0.11,GRL
+Grenada,Population growth,0.39,GRD
+Guatemala,Population growth,2.53,GTM
+Guinea,Population growth,2.39,GIN
+Guyana,Population growth,0.57,GUY
+Haiti,Population growth,1.39,HTI
+Honduras,Population growth,2.03,HND
+Hong Kong,Population growth,1.17,HKG
+Hungary,Population growth,-0.28,HUN
+Iceland,Population growth,0.35,ISL
+India,Population growth,1.26,IND
+Indonesia,Population growth,1.25,IDN
+Iran,Population growth,1.32,IRN
+Iraq,Population growth,2.54,IRQ
+Ireland,Population growth,0.26,IRL
+Israel,Population growth,1.81,ISR
+Italy,Population growth,0.32,ITA
+Ivory Coast,Population growth,2.29,CIV
+Jamaica,Population growth,0.21,JAM
+Japan,Population growth,-0.2,JPN
+Jordan,Population growth,2.19,JOR
+Kazakhstan,Population growth,1.43,KAZ
+Kenya,Population growth,2.7,KEN
+Kiribati,Population growth,1.54,KIR
+Kuwait,Population growth,3.95,KWT
+Kyrgyzstan,Population growth,1.22,KGZ
+Laos,Population growth,1.89,LAO
+Latvia,Population growth,-1.6,LVA
+Lebanon,Population growth,0.96,LBN
+Lesotho,Population growth,1.08,LSO
+Liberia,Population growth,2.68,LBR
+Libya,Population growth,0.84,LBY
+Liechtenstein,Population growth,0.73,LIE
+Lithuania,Population growth,-1.48,LTU
+Luxembourg,Population growth,2.49,LUX
+Madagascar,Population growth,2.8,MDG
+Malawi,Population growth,2.86,MWI
+Malaysia,Population growth,1.66,MYS
+Mali,Population growth,2.99,MLI
+Malta,Population growth,0.4,MLT
+Marshall Islands,Population growth,0.11,MHL
+Mauritania,Population growth,2.49,MRT
+Mauritius,Population growth,0.42,MUS
+Mexico,Population growth,1.24,MEX
+Micronesia,Population growth,-0.03,FSM
+Moldova,Population growth,-0.04,MDA
+Mongolia,Population growth,1.52,MNG
+Montenegro,Population growth,0.07,MNE
+Morocco,Population growth,1.43,MAR
+Mozambique,Population growth,2.5,MOZ
+Myanmar,Population growth,0.85,MMR
+Namibia,Population growth,1.87,NAM
+Nepal,Population growth,1.16,NPL
+Netherlands,Population growth,0.45,NLD
+New Zealand,Population growth,0.63,NZL
+Nicaragua,Population growth,1.46,NIC
+Niger,Population growth,3.84,NER
+Nigeria,Population growth,2.79,NGA
+North Macedonia,Population growth,0.08,MKD
+Norway,Population growth,1.32,NOR
+Oman,Population growth,9.13,OMN
+Pakistan,Population growth,2.69,PAK
+Palau,Population growth,0.72,PLW
+Palestine,Population growth,3.01,PSE
+Panama,Population growth,1.64,PAN
+Papua New Guinea,Population growth,2.17,PNG
+Paraguay,Population growth,1.72,PRY
+Peru,Population growth,1.25,PER
+Philippines,Population growth,1.72,PHL
+Poland,Population growth,0.02,POL
+Portugal,Population growth,-0.29,PRT
+Republic of the Congo,Population growth,2.61,COG
+Romania,Population growth,-0.27,ROU
+Russia,Population growth,0.4,RUS
+Rwanda,Population growth,2.77,RWA
+Saint Kitts and Nevis,Population growth,1.15,KNA
+Saint Lucia,Population growth,0.89,LCA
+Saint Vincent and the Grenadines,Population growth,0.01,VCT
+Samoa,Population growth,0.78,WSM
+Sao Tome and Principe,Population growth,,STP
+Saudi Arabia,Population growth,1.88,SAU
+Senegal,Population growth,2.92,SEN
+Serbia,Population growth,-0.48,SRB
+Seychelles,Population growth,0.39,SYC
+Sierra Leone,Population growth,1.91,SLE
+Singapore,Population growth,2.45,SGP
+Slovakia,Population growth,0.22,SVK
+Slovenia,Population growth,0.26,SVN
+Solomon Islands,Population growth,2.13,SLB
+Somalia,Population growth,2.86,SOM
+South Africa,Population growth,1.18,ZAF
+South Sudan,Population growth,4.3,SSD
+Spain,Population growth,0.09,ESP
+Sri Lanka,Population growth,1.04,LKA
+Sudan,Population growth,2.08,SDN
+Suriname,Population growth,0.9,SUR
+Sweden,Population growth,0.71,SWE
+Syria,Population growth,1.97,SYR
+Tajikistan,Population growth,2.45,TJK
+Tanzania,Population growth,3.04,TZA
+Thailand,Population growth,0.31,THA
+The Bahamas,Population growth,1.52,BHS
+The Gambia,Population growth,3.19,GMB
+Togo,Population growth,2.6,TGO
+Tonga,Population growth,0.37,TON
+Trinidad and Tobago,Population growth,0.33,TTO
+Tunisia,Population growth,0.97,TUN
+Turkey,Population growth,1.28,TUR
+Turkmenistan,Population growth,1.29,TKM
+Uganda,Population growth,3.35,UGA
+Ukraine,Population growth,-0.25,UKR
+United Arab Emirates,Population growth,3.1,ARE
+United Kingdom,Population growth,0.75,GBR
+United States,Population growth,0.74,USA
+Uruguay,Population growth,0.35,URY
+Uzbekistan,Population growth,1.47,UZB
+Vanuatu,Population growth,2.24,VUT
+Venezuela,Population growth,1.53,VEN
+Vietnam,Population growth,1.06,VNM
+Yemen,Population growth,2.33,YEM
+Zambia,Population growth,3.19,ZMB
+Zimbabwe,Population growth,2.7,ZWE
+Afghanistan,GDP per capita,2182,AFG
+Algeria,GDP per capita,16091,DZA
+Andorra,GDP per capita,,AND
+Angola,GDP per capita,6763,AGO
+Antigua and Barbuda,GDP per capita,30593,ATG
+Argentina,GDP per capita,19971,ARG
+Armenia,GDP per capita,11845,ARM
+Australia,GDP per capita,54799,AUS
+Austria,GDP per capita,55171,AUT
+Azerbaijan,GDP per capita,19156,AZE
+Bahrain,GDP per capita,51991,BHR
+Bangladesh,GDP per capita,5453,BGD
+Barbados,GDP per capita,19364,BRB
+Belarus,GDP per capita,21224,BLR
+Belgium,GDP per capita,50904,BEL
+Belize,GDP per capita,8791,BLZ
+Benin,GDP per capita,3648,BEN
+Bhutan,GDP per capita,10627,BTN
+Bolivia,GDP per capita,8525,BOL
+Bosnia and Herzegovina,GDP per capita,14894,BIH
+Botswana,GDP per capita,19388,BWA
+Brazil,GDP per capita,17106,BRA
+Brunei,GDP per capita,85011,BRN
+Bulgaria,GDP per capita,26034,BGR
+Burkina Faso,GDP per capita,2181,BFA
+Burundi,GDP per capita,724,BDI
+Cambodia,GDP per capita,5004,KHM
+Cameroon,GDP per capita,4099,CMR
+Canada,GDP per capita,52144,CAN
+Cape Verde,GDP per capita,8716,CPV
+Central African Republic,GDP per capita,864,CAF
+Chad,GDP per capita,2603,TCD
+Chile,GDP per capita,27150,CHL
+China,GDP per capita,20984,CHN
+Colombia,GDP per capita,16265,COL
+Comoros,GDP per capita,2898,COM
+Costa Rica,GDP per capita,18651,CRI
+Croatia,GDP per capita,29207,HRV
+Cuba,GDP per capita,8822,CUB
+Cyprus,GDP per capita,42956,CYP
+Czech Republic,GDP per capita,40585,CZE
+Democratic Republic of the Congo,GDP per capita,873,COD
+Denmark,GDP per capita,55675,DNK
+Djibouti,GDP per capita,5855,DJI
+Dominican Republic,GDP per capita,20625,DOM
+East Timor,GDP per capita,5321,TLS
+Ecuador,GDP per capita,11866,ECU
+Egypt,GDP per capita,14800,EGY
+El Salvador,GDP per capita,8593,SLV
+Equatorial Guinea,GDP per capita,19961,GNQ
+Eritrea,GDP per capita,1103,ERI
+Estonia,GDP per capita,37606,EST
+Eswatini,GDP per capita,11139,SWZ
+Ethiopia,GDP per capita,2702,ETH
+Fiji,GDP per capita,12689,FJI
+Finland,GDP per capita,49548,FIN
+France,GDP per capita,48640,FRA
+Gabon,GDP per capita,19839,GAB
+Georgia,GDP per capita,13200,GEO
+Germany,GDP per capita,55306,DEU
+Ghana,GDP per capita,7343,GHA
+Greece,GDP per capita,31616,GRC
+Greenland,GDP per capita,48182,GRL
+Grenada,GDP per capita,17434,GRD
+Guatemala,GDP per capita,9009,GTM
+Guinea,GDP per capita,2113,GIN
+Guyana,GDP per capita,17163,GUY
+Haiti,GDP per capita,1916,HTI
+Honduras,GDP per capita,5600,HND
+Hong Kong,GDP per capita,66527,HKG
+Hungary,GDP per capita,35941,HUN
+Iceland,GDP per capita,56974,ISL
+India,GDP per capita,9027,IND
+Indonesia,GDP per capita,14841,IDN
+Iran,GDP per capita,17832,IRN
+Iraq,GDP per capita,18755,IRQ
+Ireland,GDP per capita,86988,IRL
+Israel,GDP per capita,40337,ISR
+Italy,GDP per capita,41582,ITA
+Ivory Coast,GDP per capita,4754,CIV
+Jamaica,GDP per capita,9932,JAM
+Japan,GDP per capita,46827,JPN
+Jordan,GDP per capita,9939,JOR
+Kazakhstan,GDP per capita,30178,KAZ
+Kenya,GDP per capita,4078,KEN
+Kiribati,GDP per capita,2193,KIR
+Kuwait,GDP per capita,67891,KWT
+Kyrgyzstan,GDP per capita,4193,KGZ
+Laos,GDP per capita,8684,LAO
+Latvia,GDP per capita,32987,LVA
+Lebanon,GDP per capita,15599,LBN
+Lesotho,GDP per capita,3655,LSO
+Liberia,GDP per capita,1428,LBR
+Libya,GDP per capita,9446,LBY
+Liechtenstein,GDP per capita,,LIE
+Lithuania,GDP per capita,38751,LTU
+Luxembourg,GDP per capita,112045,LUX
+Madagascar,GDP per capita,1776,MDG
+Malawi,GDP per capita,1292,MWI
+Malaysia,GDP per capita,34567,MYS
+Mali,GDP per capita,2569,MLI
+Malta,GDP per capita,49589,MLT
+Marshall Islands,GDP per capita,3972,MHL
+Mauritania,GDP per capita,5158,MRT
+Mauritius,GDP per capita,26461,MUS
+Mexico,GDP per capita,21363,MEX
+Micronesia,GDP per capita,3657,FSM
+Moldova,GDP per capita,8161,MDA
+Mongolia,GDP per capita,15089,MNG
+Montenegro,GDP per capita,21977,MNE
+Morocco,GDP per capita,9667,MAR
+Mozambique,GDP per capita,1372,MOZ
+Myanmar,GDP per capita,7220,MMR
+Namibia,GDP per capita,11451,NAM
+Nepal,GDP per capita,3550,NPL
+Netherlands,GDP per capita,60299,NLD
+New Zealand,GDP per capita,42045,NZL
+Nicaragua,GDP per capita,5297,NIC
+Niger,GDP per capita,1152,NER
+Nigeria,GDP per capita,6172,NGA
+North Macedonia,GDP per capita,17378,MKD
+Norway,GDP per capita,79638,NOR
+Oman,GDP per capita,48593,OMN
+Pakistan,GDP per capita,6016,PAK
+Palau,GDP per capita,16855,PLW
+Palestine,GDP per capita,,PSE
+Panama,GDP per capita,28456,PAN
+Papua New Guinea,GDP per capita,4081,PNG
+Paraguay,GDP per capita,13213,PRY
+Peru,GDP per capita,15399,PER
+Philippines,GDP per capita,10094,PHL
+Poland,GDP per capita,35651,POL
+Portugal,GDP per capita,34936,PRT
+Republic of the Congo,GDP per capita,7336,COG
+Romania,GDP per capita,29555,ROU
+Russia,GDP per capita,30820,RUS
+Rwanda,GDP per capita,2642,RWA
+Saint Kitts and Nevis,GDP per capita,31950,KNA
+Saint Lucia,GDP per capita,15159,LCA
+Saint Vincent and the Grenadines,GDP per capita,12983,VCT
+Samoa,GDP per capita,6493,WSM
+Sao Tome and Principe,GDP per capita,,STP
+Saudi Arabia,GDP per capita,56912,SAU
+Senegal,GDP per capita,4079,SEN
+Serbia,GDP per capita,19767,SRB
+Seychelles,GDP per capita,33118,SYC
+Sierra Leone,GDP per capita,1765,SLE
+Singapore,GDP per capita,105689,SGP
+Slovakia,GDP per capita,38321,SVK
+Slovenia,GDP per capita,40344,SVN
+Solomon Islands,GDP per capita,2363,SLB
+Somalia,GDP per capita,314.5,SOM
+South Africa,GDP per capita,13965,ZAF
+South Sudan,GDP per capita,1715,SSD
+Spain,GDP per capita,43007,ESP
+Sri Lanka,GDP per capita,14509,LKA
+Sudan,GDP per capita,3986,SDN
+Suriname,GDP per capita,16044,SUR
+Sweden,GDP per capita,55989,SWE
+Syria,GDP per capita,,SYR
+Tajikistan,GDP per capita,3751,TJK
+Tanzania,GDP per capita,3652,TZA
+Thailand,GDP per capita,21361,THA
+The Bahamas,GDP per capita,33432,BHS
+The Gambia,GDP per capita,2892,GMB
+Togo,GDP per capita,1913,TGO
+Tonga,GDP per capita,6867,TON
+Trinidad and Tobago,GDP per capita,33713,TTO
+Tunisia,GDP per capita,13093,TUN
+Turkey,GDP per capita,29327,TUR
+Turkmenistan,GDP per capita,21855,TKM
+Uganda,GDP per capita,2753,UGA
+Ukraine,GDP per capita,10130,UKR
+United Arab Emirates,GDP per capita,70441,ARE
+United Kingdom,GDP per capita,48169,GBR
+United States,GDP per capita,67426,USA
+Uruguay,GDP per capita,24516,URY
+Uzbekistan,GDP per capita,9595,UZB
+Vanuatu,GDP per capita,3039,VUT
+Venezuela,GDP per capita,16055,VEN
+Vietnam,GDP per capita,8677,VNM
+Yemen,GDP per capita,2312,YEM
+Zambia,GDP per capita,4174,ZMB
+Zimbabwe,GDP per capita,2778,ZWE
+Afghanistan,Fertility,4.5,AFG
+Algeria,Fertility,3,DZA
+Andorra,Fertility,1.3,AND
+Angola,Fertility,5.5,AGO
+Antigua and Barbuda,Fertility,2,ATG
+Argentina,Fertility,2.3,ARG
+Armenia,Fertility,1.8,ARM
+Australia,Fertility,1.7,AUS
+Austria,Fertility,1.5,AUT
+Azerbaijan,Fertility,1.7,AZE
+Bahrain,Fertility,2,BHR
+Bangladesh,Fertility,2,BGD
+Barbados,Fertility,1.6,BRB
+Belarus,Fertility,1.4,BLR
+Belgium,Fertility,1.6,BEL
+Belize,Fertility,2.3,BLZ
+Benin,Fertility,4.8,BEN
+Bhutan,Fertility,2,BTN
+Bolivia,Fertility,2.7,BOL
+Bosnia and Herzegovina,Fertility,1.3,BIH
+Botswana,Fertility,2.9,BWA
+Brazil,Fertility,1.7,BRA
+Brunei,Fertility,1.8,BRN
+Bulgaria,Fertility,1.6,BGR
+Burkina Faso,Fertility,5.2,BFA
+Burundi,Fertility,5.4,BDI
+Cambodia,Fertility,2.5,KHM
+Cameroon,Fertility,4.6,CMR
+Canada,Fertility,1.5,CAN
+Cape Verde,Fertility,2.3,CPV
+Central African Republic,Fertility,4.7,CAF
+Chad,Fertility,5.7,TCD
+Chile,Fertility,1.6,CHL
+China,Fertility,1.7,CHN
+Colombia,Fertility,1.8,COL
+Comoros,Fertility,4.2,COM
+Costa Rica,Fertility,1.8,CRI
+Croatia,Fertility,1.5,HRV
+Cuba,Fertility,1.6,CUB
+Cyprus,Fertility,1.3,CYP
+Czech Republic,Fertility,1.7,CZE
+Democratic Republic of the Congo,Fertility,5.9,COD
+Denmark,Fertility,1.7,DNK
+Djibouti,Fertility,2.7,DJI
+Dominican Republic,Fertility,2.3,DOM
+East Timor,Fertility,4,TLS
+Ecuador,Fertility,2.4,ECU
+Egypt,Fertility,3.3,EGY
+El Salvador,Fertility,2,SLV
+Equatorial Guinea,Fertility,4.5,GNQ
+Eritrea,Fertility,4.1,ERI
+Estonia,Fertility,1.7,EST
+Eswatini,Fertility,3,SWZ
+Ethiopia,Fertility,4.2,ETH
+Fiji,Fertility,2.8,FJI
+Finland,Fertility,1.4,FIN
+France,Fertility,1.9,FRA
+Gabon,Fertility,4,GAB
+Georgia,Fertility,2.1,GEO
+Germany,Fertility,1.6,DEU
+Ghana,Fertility,3.9,GHA
+Greece,Fertility,1.4,GRC
+Greenland,Fertility,2,GRL
+Grenada,Fertility,2.1,GRD
+Guatemala,Fertility,2.9,GTM
+Guinea,Fertility,4.5,GIN
+Guyana,Fertility,2.5,GUY
+Haiti,Fertility,2.9,HTI
+Honduras,Fertility,2.5,HND
+Hong Kong,Fertility,1.1,HKG
+Hungary,Fertility,1.6,HUN
+Iceland,Fertility,1.7,ISL
+India,Fertility,2.2,IND
+Indonesia,Fertility,2.3,IDN
+Iran,Fertility,2.9,IRN
+Iraq,Fertility,3.7,IRQ
+Ireland,Fertility,1.8,IRL
+Israel,Fertility,2.4,ISR
+Italy,Fertility,1.3,ITA
+Ivory Coast,Fertility,4.6,CIV
+Jamaica,Fertility,2,JAM
+Japan,Fertility,1.4,JPN
+Jordan,Fertility,2.8,JOR
+Kazakhstan,Fertility,2.8,KAZ
+Kenya,Fertility,3.5,KEN
+Kiribati,Fertility,3.6,KIR
+Kuwait,Fertility,2.1,KWT
+Kyrgyzstan,Fertility,3.3,KGZ
+Laos,Fertility,2.7,LAO
+Latvia,Fertility,1.6,LVA
+Lebanon,Fertility,2.1,LBN
+Lesotho,Fertility,3.1,LSO
+Liberia,Fertility,4.3,LBR
+Libya,Fertility,2.2,LBY
+Liechtenstein,Fertility,1.6,LIE
+Lithuania,Fertility,1.6,LTU
+Luxembourg,Fertility,1.4,LUX
+Madagascar,Fertility,4.1,MDG
+Malawi,Fertility,4.2,MWI
+Malaysia,Fertility,2,MYS
+Mali,Fertility,5.9,MLI
+Malta,Fertility,1.2,MLT
+Marshall Islands,Fertility,4,MHL
+Mauritania,Fertility,4.6,MRT
+Mauritius,Fertility,1.4,MUS
+Mexico,Fertility,2.1,MEX
+Micronesia,Fertility,3.1,FSM
+Moldova,Fertility,1.3,MDA
+Mongolia,Fertility,2.9,MNG
+Montenegro,Fertility,1.7,MNE
+Morocco,Fertility,3.1,MAR
+Mozambique,Fertility,4.9,MOZ
+Myanmar,Fertility,2.2,MMR
+Namibia,Fertility,3.4,NAM
+Nepal,Fertility,1.9,NPL
+Netherlands,Fertility,1.6,NLD
+New Zealand,Fertility,1.7,NZL
+Nicaragua,Fertility,2.4,NIC
+Niger,Fertility,5.3,NER
+Nigeria,Fertility,5.4,NGA
+North Macedonia,Fertility,1.5,MKD
+Norway,Fertility,1.6,NOR
+Oman,Fertility,2.9,OMN
+Pakistan,Fertility,3.5,PAK
+Palau,Fertility,2.2,PLW
+Palestine,Fertility,,PSE
+Panama,Fertility,2.5,PAN
+Papua New Guinea,Fertility,3.6,PNG
+Paraguay,Fertility,2.4,PRY
+Peru,Fertility,2.3,PER
+Philippines,Fertility,2.6,PHL
+Poland,Fertility,1.5,POL
+Portugal,Fertility,1.4,PRT
+Republic of the Congo,Fertility,4.4,COG
+Romania,Fertility,1.8,ROU
+Russia,Fertility,1.82,RUS
+Rwanda,Fertility,4,RWA
+Saint Kitts and Nevis,Fertility,,KNA
+Saint Lucia,Fertility,,LCA
+Saint Vincent and the Grenadines,Fertility,,VCT
+Samoa,Fertility,3.9,WSM
+Sao Tome and Principe,Fertility,4.3,STP
+Saudi Arabia,Fertility,2.3,SAU
+Senegal,Fertility,4.6,SEN
+Serbia,Fertility,1.5,SRB
+Seychelles,Fertility,2.4,SYC
+Sierra Leone,Fertility,4.3,SLE
+Singapore,Fertility,1.1,SGP
+Slovakia,Fertility,,SVK
+Slovenia,Fertility,1.6,SVN
+Solomon Islands,Fertility,4.4,SLB
+Somalia,Fertility,6.1,SOM
+South Africa,Fertility,2.4,ZAF
+South Sudan,Fertility,4.7,SSD
+Spain,Fertility,1.3,ESP
+Sri Lanka,Fertility,2.2,LKA
+Sudan,Fertility,4.4,SDN
+Suriname,Fertility,2.4,SUR
+Sweden,Fertility,1.8,SWE
+Syria,Fertility,2.8,SYR
+Tajikistan,Fertility,3.6,TJK
+Tanzania,Fertility,4.9,TZA
+Thailand,Fertility,1.5,THA
+The Bahamas,Fertility,1.8,BHS
+The Gambia,Fertility,5.2,GMB
+Togo,Fertility,4.3,TGO
+Tonga,Fertility,3.6,TON
+Trinidad and Tobago,Fertility,1.7,TTO
+Tunisia,Fertility,2.2,TUN
+Turkey,Fertility,2.1,TUR
+Turkmenistan,Fertility,2.8,TKM
+Uganda,Fertility,5,UGA
+Ukraine,Fertility,1.3,UKR
+United Arab Emirates,Fertility,1.4,ARE
+United Kingdom,Fertility,1.7,GBR
+United States,Fertility,1.7,USA
+Uruguay,Fertility,2,URY
+Uzbekistan,Fertility,2.4,UZB
+Vanuatu,Fertility,3.8,VUT
+Venezuela,Fertility,2.3,VEN
+Vietnam,Fertility,2,VNM
+Yemen,Fertility,3.8,YEM
+Zambia,Fertility,4.6,ZMB
+Zimbabwe,Fertility,3.6,ZWE
