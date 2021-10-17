@@ -1,0 +1,544 @@
+Country,ISO-code,Type,Value
+Afghanistan,AFG,Total Vaccinations,3.086
+Algeria,DZA,Total Vaccinations,9.455
+Andorra,AND,Total Vaccinations,118.631
+Angola,AGO,Total Vaccinations,5.69
+Antigua and Barbuda,ATG,Total Vaccinations,74.444
+Argentina,ARG,Total Vaccinations,90.631
+Armenia,ARM,Total Vaccinations,8.077
+Australia,AUS,Total Vaccinations,67.258
+Austria,AUT,Total Vaccinations,117.12
+Azerbaijan,AZE,Total Vaccinations,64.046
+Bahrain,BHR,Total Vaccinations,145.572
+Bangladesh,BGD,Total Vaccinations,14.706
+Barbados,BRB,Total Vaccinations,69.028
+Belarus,BLR,Total Vaccinations,28.413
+Belgium,BEL,Total Vaccinations,139.21
+Belize,BLZ,Total Vaccinations,56.74
+Benin,BEN,Total Vaccinations,0.993
+Bhutan,BTN,Total Vaccinations,134.373
+Bolivia,BOL,Total Vaccinations,48.614
+Bosnia and Herzegovina,BIH,Total Vaccinations,28.289
+Botswana,BWA,Total Vaccinations,11.268
+Brazil,BRA,Total Vaccinations,83.315
+Brunei,BRN,Total Vaccinations,56.128
+Bulgaria,BGR,Total Vaccinations,32.888
+Burkina Faso,BFA,Total Vaccinations,0.472
+Cambodia,KHM,Total Vaccinations,101.925
+Cameroon,CMR,Total Vaccinations,1.607
+Canada,CAN,Total Vaccinations,140.251
+Cape Verde,CPV,Total Vaccinations,53.324
+Central African Republic,CAF,Total Vaccinations,2.255
+Chad,TCD,Total Vaccinations,0.315
+Chile,CHL,Total Vaccinations,141.174
+China,CHN,Total Vaccinations,132.083
+Colombia,COL,Total Vaccinations,67.306
+Comoros,COM,Total Vaccinations,31.902
+Costa Rica,CRI,Total Vaccinations,79.17
+Croatia,HRV,Total Vaccinations,80.26
+Cuba,CUB,Total Vaccinations,114.41
+Cyprus,CYP,Total Vaccinations,122.186
+Czech Republic,CZE,Total Vaccinations,106.657
+Democratic Republic of the Congo,COD,Total Vaccinations,0.104
+Denmark,DNK,Total Vaccinations,145.956
+Djibouti,DJI,Total Vaccinations,3.412
+Dominican Republic,DOM,Total Vaccinations,101.583
+East Timor,TLS,Total Vaccinations,42.23
+Ecuador,ECU,Total Vaccinations,99.267
+Egypt,EGY,Total Vaccinations,8.542
+El Salvador,SLV,Total Vaccinations,92.6
+Equatorial Guinea,GNQ,Total Vaccinations,23.466
+Estonia,EST,Total Vaccinations,94.859
+Eswatini,SWZ,Total Vaccinations,16.327
+Ethiopia,ETH,Total Vaccinations,2.117
+Fiji,FJI,Total Vaccinations,86.805
+Finland,FIN,Total Vaccinations,122.655
+France,FRA,Total Vaccinations,132.201
+Gabon,GAB,Total Vaccinations,5.74
+Georgia,GEO,Total Vaccinations,28.726
+Germany,DEU,Total Vaccinations,121.644
+Ghana,GHA,Total Vaccinations,4.092
+Greece,GRC,Total Vaccinations,105.82
+Greenland,GRL,Total Vaccinations,124.605
+Grenada,GRD,Total Vaccinations,37.756
+Guatemala,GTM,Total Vaccinations,23.024
+Guinea,GIN,Total Vaccinations,8.504
+Guyana,GUY,Total Vaccinations,59.528
+Haiti,HTI,Total Vaccinations,0.278
+Honduras,HND,Total Vaccinations,32.368
+Hungary,HUN,Total Vaccinations,114.956
+Iceland,ISL,Total Vaccinations,144.602
+India,IND,Total Vaccinations,43.152
+Indonesia,IDN,Total Vaccinations,33.462
+Iran,IRN,Total Vaccinations,31.165
+Iraq,IRQ,Total Vaccinations,8.376
+Ireland,IRL,Total Vaccinations,136.276
+Israel,ISR,Total Vaccinations,154.613
+Italy,ITA,Total Vaccinations,129.134
+Ivory Coast,CIV,Total Vaccinations,4.958
+Jamaica,JAM,Total Vaccinations,16.783
+Japan,JPN,Total Vaccinations,93.543
+Jordan,JOR,Total Vaccinations,61.66
+Kazakhstan,KAZ,Total Vaccinations,63.103
+Kenya,KEN,Total Vaccinations,5.008
+Kiribati,KIR,Total Vaccinations,11.695
+Kuwait,KWT,Total Vaccinations,55.73
+Kyrgyzstan,KGZ,Total Vaccinations,17.02
+Laos,LAO,Total Vaccinations,41.848
+Latvia,LVA,Total Vaccinations,78.179
+Lebanon,LBN,Total Vaccinations,38.484
+Lesotho,LSO,Total Vaccinations,9.42
+Liberia,LBR,Total Vaccinations,2.248
+Libya,LBY,Total Vaccinations,15.005
+Liechtenstein,LIE,Total Vaccinations,110.571
+Lithuania,LTU,Total Vaccinations,112.363
+Luxembourg,LUX,Total Vaccinations,121.134
+Madagascar,MDG,Total Vaccinations,0.711
+Malawi,MWI,Total Vaccinations,4.857
+Malaysia,MYS,Total Vaccinations,92.339
+Mali,MLI,Total Vaccinations,1.464
+Malta,MLT,Total Vaccinations,154.537
+Marshall Islands,MHL,Total Vaccinations,63.005
+Mauritania,MRT,Total Vaccinations,12.161
+Mauritius,MUS,Total Vaccinations,116.675
+Mexico,MEX,Total Vaccinations,64.125
+Micronesia,FSM,Total Vaccinations,53.916
+Moldova,MDA,Total Vaccinations,31.391
+Mongolia,MNG,Total Vaccinations,130.646
+Montenegro,MNE,Total Vaccinations,62.068
+Morocco,MAR,Total Vaccinations,88.298
+Mozambique,MOZ,Total Vaccinations,7.352
+Myanmar,MMR,Total Vaccinations,8.191
+Namibia,NAM,Total Vaccinations,11.691
+Nepal,NPL,Total Vaccinations,30.207
+Netherlands,NLD,Total Vaccinations,125.703
+New Zealand,NZL,Total Vaccinations,50.58
+Nicaragua,NIC,Total Vaccinations,9.748
+Niger,NER,Total Vaccinations,2.031
+Nigeria,NGA,Total Vaccinations,2.029
+North Macedonia,MKD,Total Vaccinations,58.577
+Norway,NOR,Total Vaccinations,125.852
+Oman,OMN,Total Vaccinations,36.96
+Pakistan,PAK,Total Vaccinations,23.081
+Palau,PLW,Total Vaccinations,153.123
+Palestine,PSE,Total Vaccinations,22.806
+Panama,PAN,Total Vaccinations,95.587
+Papua New Guinea,PNG,Total Vaccinations,1.6
+Paraguay,PRY,Total Vaccinations,55.075
+Peru,PER,Total Vaccinations,53.693
+Philippines,PHL,Total Vaccinations,27.005
+Poland,POL,Total Vaccinations,95.293
+Portugal,PRT,Total Vaccinations,141.088
+Republic of the Congo,COG,Total Vaccinations,3.175
+Romania,ROU,Total Vaccinations,50.406
+Russia,RUS,Total Vaccinations,54.472
+Rwanda,RWA,Total Vaccinations,6.595
+Saint Kitts and Nevis,KNA,Total Vaccinations,85.214
+Saint Lucia,LCA,Total Vaccinations,34.451
+Saint Vincent and the Grenadines,VCT,Total Vaccinations,24.058
+Samoa,WSM,Total Vaccinations,62.979
+Sao Tome and Principe,STP,Total Vaccinations,20.071
+Saudi Arabia,SAU,Total Vaccinations,105.378
+Senegal,SEN,Total Vaccinations,9.35
+Serbia,SRB,Total Vaccinations,84.397
+Seychelles,SYC,Total Vaccinations,141.972
+Sierra Leone,SLE,Total Vaccinations,2.426
+Singapore,SGP,Total Vaccinations,146.583
+Slovakia,SVK,Total Vaccinations,82.66
+Slovenia,SVN,Total Vaccinations,90.014
+Solomon Islands,SLB,Total Vaccinations,10.424
+Somalia,SOM,Total Vaccinations,1.831
+South Africa,ZAF,Total Vaccinations,18.675
+South Sudan,SSD,Total Vaccinations,0.509
+Spain,ESP,Total Vaccinations,137.402
+Sri Lanka,LKA,Total Vaccinations,84.523
+Sudan,SDN,Total Vaccinations,1.892
+Suriname,SUR,Total Vaccinations,54.452
+Sweden,SWE,Total Vaccinations,119.989
+Syria,SYR,Total Vaccinations,2.304
+Tajikistan,TJK,Total Vaccinations,23.651
+Tanzania,TZA,Total Vaccinations,0.366
+Thailand,THA,Total Vaccinations,38.77
+The Bahamas,BHS,Total Vaccinations,32.808
+The Gambia,GMB,Total Vaccinations,7.829
+Togo,TGO,Total Vaccinations,6.469
+Tonga,TON,Total Vaccinations,63.039
+Trinidad and Tobago,TTO,Total Vaccinations,62.866
+Tunisia,TUN,Total Vaccinations,47.779
+Turkey,TUR,Total Vaccinations,109.926
+Turkmenistan,TKM,Total Vaccinations,0.696
+Uganda,UGA,Total Vaccinations,2.544
+Ukraine,UKR,Total Vaccinations,20.328
+United Arab Emirates,ARE,Total Vaccinations,182.957
+United Kingdom,GBR,Total Vaccinations,131.8
+United States,USA,Total Vaccinations,110.971
+Uruguay,URY,Total Vaccinations,156.498
+Uzbekistan,UZB,Total Vaccinations,36.163
+Vanuatu,VUT,Total Vaccinations,12.449
+Venezuela,VEN,Total Vaccinations,32.181
+Vietnam,VNM,Total Vaccinations,16.752
+Yemen,YEM,Total Vaccinations,1.044
+Zambia,ZMB,Total Vaccinations,2.74
+Zimbabwe,ZWE,Total Vaccinations,25.382
+Afghanistan,AFG,First Dose Vac,1.979
+Algeria,DZA,First Dose Vac,7.802
+Andorra,AND,First Dose Vac,66.064
+Angola,AGO,First Dose Vac,3.119
+Antigua and Barbuda,ATG,First Dose Vac,40.65
+Argentina,ARG,First Dose Vac,61.081
+Armenia,ARM,First Dose Vac,5.193
+Australia,AUS,First Dose Vac,42.676
+Austria,AUT,First Dose Vac,61.663
+Azerbaijan,AZE,First Dose Vac,38.755
+Bahrain,BHR,First Dose Vac,67.125
+Bangladesh,BGD,First Dose Vac,10.47
+Barbados,BRB,First Dose Vac,36.769
+Belarus,BLR,First Dose Vac,15.834
+Belgium,BEL,First Dose Vac,72.805
+Belize,BLZ,First Dose Vac,39.928
+Benin,BEN,First Dose Vac,0.459
+Bhutan,BTN,First Dose Vac,72.759
+Bolivia,BOL,First Dose Vac,32.291
+Bosnia and Herzegovina,BIH,First Dose Vac,17.288
+Botswana,BWA,First Dose Vac,11.632
+Brazil,BRA,First Dose Vac,59.382
+Brunei,BRN,First Dose Vac,41.194
+Bulgaria,BGR,First Dose Vac,
+Burkina Faso,BFA,First Dose Vac,0.372
+Cambodia,KHM,First Dose Vac,58.926
+Cameroon,CMR,First Dose Vac,1.312
+Canada,CAN,First Dose Vac,73.619
+Cape Verde,CPV,First Dose Vac,41.292
+Central African Republic,CAF,First Dose Vac,1.61
+Chad,TCD,First Dose Vac,0.225
+Chile,CHL,First Dose Vac,71.429
+China,CHN,First Dose Vac,
+Colombia,COL,First Dose Vac,44.281
+Comoros,COM,First Dose Vac,20.129
+Costa Rica,CRI,First Dose Vac,59.471
+Croatia,HRV,First Dose Vac,42.357
+Cuba,CUB,First Dose Vac,46.688
+Cyprus,CYP,First Dose Vac,64.189
+Czech Republic,CZE,First Dose Vac,55.402
+Democratic Republic of the Congo,COD,First Dose Vac,0.092
+Denmark,DNK,First Dose Vac,75.517
+Djibouti,DJI,First Dose Vac,1.872
+Dominican Republic,DOM,First Dose Vac,53.248
+East Timor,TLS,First Dose Vac,28.471
+Ecuador,ECU,First Dose Vac,56.981
+Egypt,EGY,First Dose Vac,5.488
+El Salvador,SLV,First Dose Vac,53.209
+Equatorial Guinea,GNQ,First Dose Vac,13.509
+Estonia,EST,First Dose Vac,54.349
+Eswatini,SWZ,First Dose Vac,13.891
+Ethiopia,ETH,First Dose Vac,1.773
+Fiji,FJI,First Dose Vac,60.601
+Finland,FIN,First Dose Vac,72.64
+France,FRA,First Dose Vac,73.787
+Gabon,GAB,First Dose Vac,3.357
+Georgia,GEO,First Dose Vac,19.329
+Germany,DEU,First Dose Vac,64.889
+Ghana,GHA,First Dose Vac,2.785
+Greece,GRC,First Dose Vac,56.067
+Greenland,GRL,First Dose Vac,69.444
+Grenada,GRD,First Dose Vac,21.298
+Guatemala,GTM,First Dose Vac,17.541
+Guinea,GIN,First Dose Vac,5.702
+Guyana,GUY,First Dose Vac,39.255
+Haiti,HTI,First Dose Vac,0.239
+Honduras,HND,First Dose Vac,21.585
+Hungary,HUN,First Dose Vac,58.604
+Iceland,ISL,First Dose Vac,76.653
+India,IND,First Dose Vac,33.391
+Indonesia,IDN,First Dose Vac,21.469
+Iran,IRN,First Dose Vac,21.741
+Iraq,IRQ,First Dose Vac,1.739
+Ireland,IRL,First Dose Vac,73.708
+Israel,ISR,First Dose Vac,68.761
+Italy,ITA,First Dose Vac,70.839
+Ivory Coast,CIV,First Dose Vac,4.014
+Jamaica,JAM,First Dose Vac,12.088
+Japan,JPN,First Dose Vac,52.606
+Jordan,JOR,First Dose Vac,33.545
+Kazakhstan,KAZ,First Dose Vac,34.962
+Kenya,KEN,First Dose Vac,3.523
+Kiribati,KIR,First Dose Vac,11.695
+Kuwait,KWT,First Dose Vac,
+Kyrgyzstan,KGZ,First Dose Vac,10.364
+Laos,LAO,First Dose Vac,28.32
+Latvia,LVA,First Dose Vac,44.56
+Lebanon,LBN,First Dose Vac,21.056
+Lesotho,LSO,First Dose Vac,1.91
+Liberia,LBR,First Dose Vac,2.067
+Libya,LBY,First Dose Vac,13.84
+Liechtenstein,LIE,First Dose Vac,58.402
+Lithuania,LTU,First Dose Vac,58.997
+Luxembourg,LUX,First Dose Vac,64.685
+Madagascar,MDG,First Dose Vac,0.711
+Malawi,MWI,First Dose Vac,3.463
+Malaysia,MYS,First Dose Vac,55.016
+Mali,MLI,First Dose Vac,1.037
+Malta,MLT,First Dose Vac,80.252
+Marshall Islands,MHL,First Dose Vac,34.938
+Mauritania,MRT,First Dose Vac,5.177
+Mauritius,MUS,First Dose Vac,61.888
+Mexico,MEX,First Dose Vac,44.151
+Micronesia,FSM,First Dose Vac,34.078
+Moldova,MDA,First Dose Vac,
+Mongolia,MNG,First Dose Vac,67.914
+Montenegro,MNE,First Dose Vac,33.253
+Morocco,MAR,First Dose Vac,49.381
+Mozambique,MOZ,First Dose Vac,5.258
+Myanmar,MMR,First Dose Vac,4.889
+Namibia,NAM,First Dose Vac,7.892
+Nepal,NPL,First Dose Vac,16.967
+Netherlands,NLD,First Dose Vac,68.74
+New Zealand,NZL,First Dose Vac,31.967
+Nicaragua,NIC,First Dose Vac,6.688
+Niger,NER,First Dose Vac,1.67
+Nigeria,NGA,First Dose Vac,1.337
+North Macedonia,MKD,First Dose Vac,33.771
+Norway,NOR,First Dose Vac,71.491
+Oman,OMN,First Dose Vac,30.371
+Pakistan,PAK,First Dose Vac,18.087
+Palau,PLW,First Dose Vac,87.447
+Palestine,PSE,First Dose Vac,14.317
+Panama,PAN,First Dose Vac,63.347
+Papua New Guinea,PNG,First Dose Vac,1.1
+Paraguay,PRY,First Dose Vac,31.777
+Peru,PER,First Dose Vac,30.302
+Philippines,PHL,First Dose Vac,18.382
+Poland,POL,First Dose Vac,50.633
+Portugal,PRT,First Dose Vac,82.492
+Republic of the Congo,COG,First Dose Vac,1.431
+Romania,ROU,First Dose Vac,27.041
+Russia,RUS,First Dose Vac,29.765
+Rwanda,RWA,First Dose Vac,3.481
+Saint Kitts and Nevis,KNA,First Dose Vac,45.511
+Saint Lucia,LCA,First Dose Vac,19.445
+Saint Vincent and the Grenadines,VCT,First Dose Vac,14.798
+Samoa,WSM,First Dose Vac,44.067
+Sao Tome and Principe,STP,First Dose Vac,14.653
+Saudi Arabia,SAU,First Dose Vac,63.505
+Senegal,SEN,First Dose Vac,6.909
+Serbia,SRB,First Dose Vac,42.11
+Seychelles,SYC,First Dose Vac,75.558
+Sierra Leone,SLE,First Dose Vac,2.003
+Singapore,SGP,First Dose Vac,76.495
+Slovakia,SVK,First Dose Vac,43.354
+Slovenia,SVN,First Dose Vac,47.075
+Solomon Islands,SLB,First Dose Vac,7.858
+Somalia,SOM,First Dose Vac,1.226
+South Africa,ZAF,First Dose Vac,10.007
+South Sudan,SSD,First Dose Vac,0.467
+Spain,ESP,First Dose Vac,76.559
+Sri Lanka,LKA,First Dose Vac,56.739
+Sudan,SDN,First Dose Vac,1.468
+Suriname,SUR,First Dose Vac,33.815
+Sweden,SWE,First Dose Vac,66.36
+Syria,SYR,First Dose Vac,1.151
+Tajikistan,TJK,First Dose Vac,19.836
+Tanzania,TZA,First Dose Vac,
+Thailand,THA,First Dose Vac,29.843
+The Bahamas,BHS,First Dose Vac,19.371
+The Gambia,GMB,First Dose Vac,1.478
+Togo,TGO,First Dose Vac,4.311
+Tonga,TON,First Dose Vac,37.375
+Trinidad and Tobago,TTO,First Dose Vac,35.586
+Tunisia,TUN,First Dose Vac,30.613
+Turkey,TUR,First Dose Vac,56.529
+Turkmenistan,TKM,First Dose Vac,0.535
+Uganda,UGA,First Dose Vac,1.972
+Ukraine,UKR,First Dose Vac,12.108
+United Arab Emirates,ARE,First Dose Vac,
+United Kingdom,GBR,First Dose Vac,70.251
+United States,USA,First Dose Vac,63.1
+Uruguay,URY,First Dose Vac,76.398
+Uzbekistan,UZB,First Dose Vac,25.605
+Vanuatu,VUT,First Dose Vac,10.306
+Venezuela,VEN,First Dose Vac,20.448
+Vietnam,VNM,First Dose Vac,15.071
+Yemen,YEM,First Dose Vac,1
+Zambia,ZMB,First Dose Vac,1.653
+Zimbabwe,ZWE,First Dose Vac,15.558
+Afghanistan,AFG,Fully Vac,1.107
+Algeria,DZA,Fully Vac,1.653
+Andorra,AND,Fully Vac,52.567
+Angola,AGO,Fully Vac,2.57
+Antigua and Barbuda,ATG,Fully Vac,33.794
+Argentina,ARG,Fully Vac,29.549
+Armenia,ARM,Fully Vac,2.884
+Australia,AUS,Fully Vac,24.473
+Austria,AUT,Fully Vac,58.275
+Azerbaijan,AZE,Fully Vac,25.292
+Bahrain,BHR,Fully Vac,63.769
+Bangladesh,BGD,Fully Vac,4.236
+Barbados,BRB,Fully Vac,32.26
+Belarus,BLR,Fully Vac,12.579
+Belgium,BEL,Fully Vac,69.466
+Belize,BLZ,Fully Vac,16.812
+Benin,BEN,Fully Vac,0.533
+Bhutan,BTN,Fully Vac,61.615
+Bolivia,BOL,Fully Vac,21.613
+Bosnia and Herzegovina,BIH,Fully Vac,11.001
+Botswana,BWA,Fully Vac,8.44
+Brazil,BRA,Fully Vac,26.008
+Brunei,BRN,Fully Vac,14.934
+Bulgaria,BGR,Fully Vac,16.616
+Burkina Faso,BFA,Fully Vac,0.065
+Cambodia,KHM,Fully Vac,47.653
+Cameroon,CMR,Fully Vac,0.295
+Canada,CAN,Fully Vac,66.632
+Cape Verde,CPV,Fully Vac,11.947
+Central African Republic,CAF,Fully Vac,0.538
+Chad,TCD,Fully Vac,0.089
+Chile,CHL,Fully Vac,67.05
+China,CHN,Fully Vac,
+Colombia,COL,Fully Vac,28.396
+Comoros,COM,Fully Vac,11.774
+Costa Rica,CRI,Fully Vac,19.699
+Croatia,HRV,Fully Vac,39.592
+Cuba,CUB,Fully Vac,39.718
+Cyprus,CYP,Fully Vac,57.996
+Czech Republic,CZE,Fully Vac,53.085
+Democratic Republic of the Congo,COD,Fully Vac,0.012
+Denmark,DNK,Fully Vac,71.238
+Djibouti,DJI,Fully Vac,1.54
+Dominican Republic,DOM,Fully Vac,42.495
+East Timor,TLS,Fully Vac,13.759
+Ecuador,ECU,Fully Vac,42.702
+Egypt,EGY,Fully Vac,3.053
+El Salvador,SLV,Fully Vac,39.391
+Equatorial Guinea,GNQ,Fully Vac,9.958
+Estonia,EST,Fully Vac,40.509
+Eswatini,SWZ,Fully Vac,12.975
+Ethiopia,ETH,Fully Vac,0.345
+Fiji,FJI,Fully Vac,26.204
+Finland,FIN,Fully Vac,50.015
+France,FRA,Fully Vac,59.944
+Gabon,GAB,Fully Vac,2.383
+Georgia,GEO,Fully Vac,9.397
+Germany,DEU,Fully Vac,60.123
+Ghana,GHA,Fully Vac,1.307
+Greece,GRC,Fully Vac,53.291
+Greenland,GRL,Fully Vac,55.161
+Grenada,GRD,Fully Vac,16.458
+Guatemala,GTM,Fully Vac,5.483
+Guinea,GIN,Fully Vac,2.802
+Guyana,GUY,Fully Vac,20.273
+Haiti,HTI,Fully Vac,0.042
+Honduras,HND,Fully Vac,10.786
+Hungary,HUN,Fully Vac,56.352
+Iceland,ISL,Fully Vac,72.372
+India,IND,Fully Vac,9.761
+Indonesia,IDN,Fully Vac,11.993
+Iran,IRN,Fully Vac,9.423
+Iraq,IRQ,Fully Vac,0.966
+Ireland,IRL,Fully Vac,67.243
+Israel,ISR,Fully Vac,63.183
+Italy,ITA,Fully Vac,60.695
+Ivory Coast,CIV,Fully Vac,0.944
+Jamaica,JAM,Fully Vac,4.74
+Japan,JPN,Fully Vac,40.937
+Jordan,JOR,Fully Vac,28.115
+Kazakhstan,KAZ,Fully Vac,28.14
+Kenya,KEN,Fully Vac,1.486
+Kiribati,KIR,Fully Vac,
+Kuwait,KWT,Fully Vac,
+Kyrgyzstan,KGZ,Fully Vac,6.62
+Laos,LAO,Fully Vac,22.606
+Latvia,LVA,Fully Vac,39.514
+Lebanon,LBN,Fully Vac,17.428
+Lesotho,LSO,Fully Vac,1.502
+Liberia,LBR,Fully Vac,0.542
+Libya,LBY,Fully Vac,1.165
+Liechtenstein,LIE,Fully Vac,52.84
+Lithuania,LTU,Fully Vac,53.366
+Luxembourg,LUX,Fully Vac,56.449
+Madagascar,MDG,Fully Vac,
+Malawi,MWI,Fully Vac,2.078
+Malaysia,MYS,Fully Vac,37.323
+Mali,MLI,Fully Vac,0.427
+Malta,MLT,Fully Vac,80.029
+Marshall Islands,MHL,Fully Vac,30.344
+Mauritania,MRT,Fully Vac,6.983
+Mauritius,MUS,Fully Vac,54.787
+Mexico,MEX,Fully Vac,25.035
+Micronesia,FSM,Fully Vac,29.045
+Moldova,MDA,Fully Vac,16.757
+Mongolia,MNG,Fully Vac,62.58
+Montenegro,MNE,Fully Vac,28.816
+Morocco,MAR,Fully Vac,38.917
+Mozambique,MOZ,Fully Vac,2.093
+Myanmar,MMR,Fully Vac,3.302
+Namibia,NAM,Fully Vac,3.8
+Nepal,NPL,Fully Vac,13.24
+Netherlands,NLD,Fully Vac,61.48
+New Zealand,NZL,Fully Vac,18.613
+Nicaragua,NIC,Fully Vac,3.06
+Niger,NER,Fully Vac,0.361
+Nigeria,NGA,Fully Vac,0.692
+North Macedonia,MKD,Fully Vac,24.806
+Norway,NOR,Fully Vac,54.361
+Oman,OMN,Fully Vac,6.599
+Pakistan,PAK,Fully Vac,6.913
+Palau,PLW,Fully Vac,77.99
+Palestine,PSE,Fully Vac,8.489
+Panama,PAN,Fully Vac,32.24
+Papua New Guinea,PNG,Fully Vac,0.324
+Paraguay,PRY,Fully Vac,23.298
+Peru,PER,Fully Vac,23.391
+Philippines,PHL,Fully Vac,11.853
+Poland,POL,Fully Vac,49.275
+Portugal,PRT,Fully Vac,72.654
+Republic of the Congo,COG,Fully Vac,1.745
+Romania,ROU,Fully Vac,26.457
+Russia,RUS,Fully Vac,24.707
+Rwanda,RWA,Fully Vac,3.114
+Saint Kitts and Nevis,KNA,Fully Vac,39.703
+Saint Lucia,LCA,Fully Vac,15.006
+Saint Vincent and the Grenadines,VCT,Fully Vac,9.26
+Samoa,WSM,Fully Vac,18.912
+Sao Tome and Principe,STP,Fully Vac,5.418
+Saudi Arabia,SAU,Fully Vac,41.873
+Senegal,SEN,Fully Vac,4.142
+Serbia,SRB,Fully Vac,40.417
+Seychelles,SYC,Fully Vac,71.625
+Sierra Leone,SLE,Fully Vac,0.423
+Singapore,SGP,Fully Vac,72.351
+Slovakia,SVK,Fully Vac,39.306
+Slovenia,SVN,Fully Vac,42.939
+Solomon Islands,SLB,Fully Vac,2.566
+Somalia,SOM,Fully Vac,0.605
+South Africa,ZAF,Fully Vac,8.669
+South Sudan,SSD,Fully Vac,0.043
+Spain,ESP,Fully Vac,68.577
+Sri Lanka,LKA,Fully Vac,27.784
+Sudan,SDN,Fully Vac,0.424
+Suriname,SUR,Fully Vac,20.638
+Sweden,SWE,Fully Vac,53.618
+Syria,SYR,Fully Vac,1.154
+Tajikistan,TJK,Fully Vac,3.815
+Tanzania,TZA,Fully Vac,0.35
+Thailand,THA,Fully Vac,8.926
+The Bahamas,BHS,Fully Vac,13.438
+The Gambia,GMB,Fully Vac,6.4
+Togo,TGO,Fully Vac,2.158
+Tonga,TON,Fully Vac,25.663
+Trinidad and Tobago,TTO,Fully Vac,27.281
+Tunisia,TUN,Fully Vac,12.076
+Turkey,TUR,Fully Vac,43.303
+Turkmenistan,TKM,Fully Vac,0.162
+Uganda,UGA,Fully Vac,0.53
+Ukraine,UKR,Fully Vac,8.22
+United Arab Emirates,ARE,Fully Vac,
+United Kingdom,GBR,Fully Vac,61.59
+United States,USA,Fully Vac,52.184
+Uruguay,URY,Fully Vac,71.621
+Uzbekistan,UZB,Fully Vac,
+Vanuatu,VUT,Fully Vac,2.148
+Venezuela,VEN,Fully Vac,11.698
+Vietnam,VNM,Fully Vac,1.681
+Yemen,YEM,Fully Vac,0.045
+Zambia,ZMB,Fully Vac,1.086
+Zimbabwe,ZWE,Fully Vac,9.824
