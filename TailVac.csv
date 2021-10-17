@@ -1,0 +1,46 @@
+Country,Type,Value
+Congo,Total Vaccinations,0.104
+Haiti,Total Vaccinations,0.278
+Chad,Total Vaccinations,0.315
+Tanzania,Total Vaccinations,0.366
+Burkina Faso,Total Vaccinations,0.472
+South Sudan,Total Vaccinations,0.509
+Turkmenistan,Total Vaccinations,0.696
+Madagascar,Total Vaccinations,0.711
+Benin,Total Vaccinations,0.993
+Yemen,Total Vaccinations,1.044
+Mali,Total Vaccinations,1.464
+Papua New Guinea,Total Vaccinations,1.6
+Cameroon,Total Vaccinations,1.607
+Somalia,Total Vaccinations,1.831
+Sudan,Total Vaccinations,1.892
+Congo,First Dose Vac,0.092
+Haiti,First Dose Vac,0.239
+Chad,First Dose Vac,0.225
+Tanzania,First Dose Vac,0.016
+Burkina Faso,First Dose Vac,0.372
+South Sudan,First Dose Vac,0.467
+Turkmenistan,First Dose Vac,0.535
+Madagascar,First Dose Vac,0.711
+Benin,First Dose Vac,0.459
+Yemen,First Dose Vac,1
+Mali,First Dose Vac,1.037
+Papua New Guinea,First Dose Vac,1.1
+Cameroon,First Dose Vac,1.312
+Somalia,First Dose Vac,1.226
+Sudan,First Dose Vac,1.468
+Congo,Fully Vac,0.012
+Haiti,Fully Vac,0.042
+Chad,Fully Vac,0.089
+Tanzania,Fully Vac,0.35
+Burkina Faso,Fully Vac,0.065
+South Sudan,Fully Vac,0.043
+Turkmenistan,Fully Vac,0.162
+Madagascar,Fully Vac,0
+Benin,Fully Vac,0.533
+Yemen,Fully Vac,0.045
+Mali,Fully Vac,0.427
+Papua New Guinea,Fully Vac,0.324
+Cameroon,Fully Vac,0.295
+Somalia,Fully Vac,0.605
+Sudan,Fully Vac,0.424
